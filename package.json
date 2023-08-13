@@ -1,0 +1,25 @@
+{
+  "name": "@mikosoft/nodejs-toolkit",
+  "version": "1.0.0",
+  "title": "NodeJS Toolkit",
+  "description": "Handy libraries for NodeJS.",
+  "keywords": [
+    "node library",
+    "nodejs library",
+    "nodejs tools",
+    "nodejs toolkit",
+    "nodejs utils",
+    "nodejs helpers"
+  ],
+  "author": "Mikosoft",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:miko-soft/nodejs-toolkit.git"
+  },
+  "dependencies": {},
+  "publishConfig": {
+    "access": "public"
+  }
+}
